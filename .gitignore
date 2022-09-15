@@ -1,0 +1,6 @@
+#This file contains file names & directory names which are ignored by Git
+ #this is a filename
+log.txt
+ #this is a directory
+/ignorethisDir
+
