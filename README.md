@@ -11,3 +11,5 @@
 # Adding another line from GitHub! This is fun :)
 
 # Cleared all conflicts. Ready to push!
+
+#Adding this line from GitHub - Master Branch
